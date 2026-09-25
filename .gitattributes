@@ -1,0 +1,8 @@
+# Normalize line endings   
+# This file is used to override language statistics
+*.jpeg binary
+
+src/** linguist-detectable
+*.map linguist-generated
+*.html linguist-vendored
+*.woff2 binary
